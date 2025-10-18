@@ -151,7 +151,7 @@ Aplikace se automaticky otevře v prohlížeči na `http://localhost:8501`
 
 ---
 
-## 📍 O projektu
+## 📍 O projektu!!!
 
 Tato metodologie je součástí aplikace **Mapa příležitostí**, jejímž cílem je zviditelnit příležitosti českého exportu v kontextu zelené transformace.
 

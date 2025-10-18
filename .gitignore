@@ -2,3 +2,18 @@ BACI_analysis/BACI_HS22_Y2022_V202501.csv
 BACI_analysis/BACI_HS22_Y2023_V202501.csv
 .DS_Store
 .DS_Store
+venv/*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
